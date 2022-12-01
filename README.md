@@ -1,6 +1,6 @@
 # biased
 
-A) For classification: </br>
+** A) For classification: </br> **
       Please use classification.ipynb. </br>
       This requires the three models below that are located: https://drive.google.com/drive/folders/11SnXFgZGfk1UM3B7BuvzBhKjAN956qL7?usp=sharing
 
@@ -10,7 +10,7 @@ A) For classification: </br>
       
       
 
-B) For unsupervised clustering: </br>
+** B) For unsupervised clustering: </br> **
       Please refer to unsupervised.ipynb. </br>
       This results in the clusters.csv.
       
